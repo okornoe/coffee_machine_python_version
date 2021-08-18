@@ -82,7 +82,7 @@ def coffee_machine_take():
 
 
 def coffee_machine_operation():
-    print("Write action (buy, fill, take):")
+    print("Write action (buy, fill, take, remaining, exit):")
     user_input = input()
 
     if user_input == "buy":
@@ -96,6 +96,8 @@ def coffee_machine_operation():
     elif user_input == "take":
         coffee_machine_take()
         print()
+        state_of_coffee_machine()
+    elif user_input == "remaining":
         state_of_coffee_machine()
 
 
