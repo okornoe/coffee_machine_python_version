@@ -1,6 +1,5 @@
 user_input = input()
 
-
 for ch in user_input:
     if ch.isupper() and user_input.index(ch) != 0:
         ch_index = user_input.index(ch)
