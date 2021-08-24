@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/219111/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 19 Aug 2021 12:43:20 UTC
+update_date: Mon, 23 Aug 2021 21:38:22 UTC
 stages:
 - id: 366
   step: 5790
@@ -42,8 +42,6 @@ topics:
     theory_id: 5913
   - title: Program with numbers
     theory_id: 5872
-  - title: Invoking a function
-    theory_id: 5891
   - title: Basic data types
     theory_id: 5852
   - title: Integer arithmetic
@@ -52,6 +50,8 @@ topics:
     theory_id: 5859
   - title: Type casting
     theory_id: 6224
+  - title: Invoking a function
+    theory_id: 5891
   - title: Basic string methods
     theory_id: 6842
   2:
@@ -72,14 +72,14 @@ topics:
     theory_id: 8742
   - title: Components of computational thinking
     theory_id: 8745
+  - title: PyCharm basics
+    theory_id: 6193
   - title: Declaring a function
     theory_id: 5900
   - title: Scopes
     theory_id: 6322
   - title: Functional decomposition
     theory_id: 9571
-  - title: PyCharm basics
-    theory_id: 6193
   4:
   - title: While loop
     theory_id: 5940
