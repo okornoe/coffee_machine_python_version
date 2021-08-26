@@ -1,4 +1,3 @@
-# Write your code here
 
 
 # State of the coffee machine
@@ -8,9 +7,6 @@ AMOUNT_OF_COFFEE_BEANS = 120
 AMOUNT_OF_DISPOSABLE_CUPS = 9
 COFFEE_MACHINE_INCOME = 550
 
-
-# def coffee_machine():
-#    coffee_machine_operation(input("Write action (buy, fill, take, remaining, exit):"))
 
 def check_coffee_resources_and_act(user_input):
     global AMOUNT_OF_WATER
